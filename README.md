@@ -34,11 +34,11 @@ O código está organizado em três classes principais:
 1. Certifique-se de ter o Java instalado (Java 17 ou superior).
 2. Compile os arquivos Java:
    ```sh
-   javac Principal.java
+   javac industria-funcionarios.java
    ```
 3. Execute o programa:
    ```sh
-   java Principal
+   java industria-funcionarios
    ```
 
 ## Autor
